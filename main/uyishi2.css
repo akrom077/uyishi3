@@ -1,0 +1,35 @@
+
+body {
+  background: rgb(94, 226, 189);
+ }
+ 
+ .heading{
+   text-align: center;
+   color: white;
+ }
+ .header{
+   background-color: #fff;
+ }
+ .hero{
+   background-color: #fff;
+   text-align: center;
+   list-style: none;
+ }
+ .center{
+  
+   text-decoration: none;
+   list-style: none;
+   line-height: 30px;
+ }
+ .param {
+   font-size: 20px;
+   font-weight:bold ;
+ }
+.head {
+  font-size: 20px;
+  color:gold ;
+ }
+ .eyes {
+   font-size: 20px;
+   color: rgb(189, 19, 19);
+ }

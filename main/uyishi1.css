@@ -1,0 +1,31 @@
+
+body {
+  background: rgb(152, 217, 236);
+ }
+ 
+
+ .header{
+   background-color: #fff;
+   width: 85%;
+   margin: auto;
+ }
+ .hero{
+   background-color: #fff;
+   text-align: center;
+   list-style: none;
+ }
+ h2{
+   color: rgb(74, 74, 203);
+ }
+
+ .center{
+  
+   text-decoration: none;
+   list-style: none;
+   
+ }
+ .param {
+   font-size: 20px;
+   color: rgb(74, 74, 203); 
+  }
+ 
